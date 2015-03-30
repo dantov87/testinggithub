@@ -6,4 +6,6 @@ package java.com.test;
 public class TestChanges {
     private String test ="";
 
+
+    private int counter;
 }
